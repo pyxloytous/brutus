@@ -13,6 +13,7 @@ Brutus is a tool that provides basically two functionality
                              
                              
 Author: Pyxloytous (pyxloytous@gmil.com)
+
 version: 0.1  
 
 ./brutus -h  - to see required parameters to run it
