@@ -9,7 +9,9 @@ Brutus is a tool that provides basically two functionality
 
  2. Login Brute force:       If a login link is passed to it with the supply of dectionaries required 
                              If starts performing a bruteforce attack on the link 
-                             It can be passed with sql injection strings to try with on the login forms 
+                             It can be passed with sql injection strings to try with on the login forms
+                             
+                             
 Author: Pyxloytous (pyxloytous@gmil.com)
 version: 0.1  
 
